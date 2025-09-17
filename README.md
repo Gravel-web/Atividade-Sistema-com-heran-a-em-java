@@ -1,1 +1,1 @@
-# Atividade-Sistema-com-heran-a-em-java
+# git-equipe-java
